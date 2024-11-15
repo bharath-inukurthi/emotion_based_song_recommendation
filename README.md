@@ -41,32 +41,32 @@ I recommend you to create a virtual environment to avoid compatibilty issues
 
 ### macOS/Linux (using Python's venv):
 ```bash
-  python3.12 -m venv myenv
+  python3.12 -m venv song_recommender
 ```
 
 ```bash
-  source myenv/bin/activate
+  source song_recommender/bin/activate
 ```
 ### Windows (using Python's venv):
 
 ```bash
-  python3.12 -m venv myenv
+  python3.12 -m venv song_recommender
 ```
 
 ```bash
-  myenv\Scripts\activate
+  song_recommender\Scripts\activate
 ```
 
 
 ### Using conda:
 ```bash
-  conda create -n myenv python=3.12
+  conda create -n song_recommender python=3.12
 ```
 
 
 
 ```bash
-  conda activate myenv
+  conda activate song_recommender
 ```
 
 
