@@ -86,7 +86,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd emotion_based_song_recommendation/emotion_based_song_recomendation
+  cd emotion_based_song_recommendation
 ```
 
 Install dependencies
